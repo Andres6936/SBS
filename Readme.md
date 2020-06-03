@@ -9,4 +9,4 @@ to the screen using the standard [SDL2](http://www.libsdl.org) and [SDL2_image](
 * Tinting the sprite a certain color
 * Clamping the render framerate to once a second
 
-![Screenshot](sprite-blitting.png)
+![Screenshot](./Documentation/Screnshot.png)
